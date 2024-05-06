@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "To be continued"
+title: "American Economic Association Study"
 author: "Yirui Zhao"
 categories: resources
 tags: [documentation,sample]
-image: city-1.jpg
+image: aea.png
 ---
 
